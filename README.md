@@ -6,7 +6,7 @@ The project is built around a modular ML pipeline and served through a Flask web
 Student performance is shaped by a range of factors beyond academic effort alone parental education level, socioeconomic background, and access to test preparation resources all play a measurable role. This project trains a regression model on those variables to predict math scores, with the broader goal of enabling earlier identification of students who may benefit from additional academic support.
 
 **Tech Stack**
-Python 3.8+Web Framework, FlaskML, Libraries (Scikit-learn, CatBoost, XGBoostData), Pandas, NumPy, Matplotlib, Seaborn, Dill, Notebook, Jupyter
+Python 3.8+, FlaskML, Libraries (Scikit-learn, CatBoost, XGBoostData), Pandas, NumPy, Matplotlib, Seaborn, Dill, Notebook, Jupyter
 
 **ML Pipeline**
 
